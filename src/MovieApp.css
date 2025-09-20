@@ -67,3 +67,18 @@ button:hover {
     font-size: 14px;
     margin-bottom: 5px;
 }
+
+.movie-card button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  background-color: #5d176b;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.movie-card button:hover {
+  background-color: #0056b3;
+}
